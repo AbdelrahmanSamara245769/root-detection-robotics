@@ -1,0 +1,28 @@
+# Data, model weights and generated outputs are not published
+data/
+models/
+outputs/
+*.h5
+*.keras
+*.zip
+*.pkl
+*.npy
+*.csv
+*.gif
+
+# Course-provided OT-2 simulation (see simulation/README.md)
+simulation/*
+!simulation/README.md
+
+# Folders the notebooks create next to themselves
+notebooks/*/
+
+# Secrets
+.env
+
+# Python and Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

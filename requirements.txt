@@ -1,0 +1,16 @@
+# Computer vision notebooks (trained with TensorFlow 2.20)
+tensorflow
+opencv-python
+numpy
+pandas
+scipy
+scikit-image
+networkx
+patchify
+matplotlib
+jupyter
+
+# Simulation, PID control and integration
+pybullet
+imageio
+pillow
